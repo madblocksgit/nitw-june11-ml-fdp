@@ -20,7 +20,7 @@ Creating a Flask API and HTML Interface for user to enter data to ML Model
 Arduino
 
 # Languages Used
-Embedded C
+Embedded C <br/>
 Python
 
 
